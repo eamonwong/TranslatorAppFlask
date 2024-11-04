@@ -1,6 +1,6 @@
 # TranslatorAppFlask
 
-Welcome to the Flask Translator App project! This Python-based web application allows users to translate text from one language to another using a simple interface. Built with the Flask framework and the `translate` package, this app enables users to enter text, select source and target languages, and see translated results instantly.
+Welcome to the TranslatorAppFlask project! This Python-based web application allows users to translate text from one language to another using a simple interface. Built with the Flask framework and the `translate` package, this app enables users to enter text, select source and target languages, and see translated results instantly.
 
 ## Features and Functionality
 
@@ -17,4 +17,8 @@ Welcome to the Flask Translator App project! This Python-based web application a
 ### 3. Interactive Web Interface:
 
 - **Clean Design**: The app’s simple and accessible HTML form allows users to enter text, select languages, and view translations on a single page, without requiring external frameworks.
+
+https://github.com/user-attachments/assets/65ff5f2b-5dd9-4434-9197-7bdeb323cf27
+
+
 
